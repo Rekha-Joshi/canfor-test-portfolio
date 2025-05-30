@@ -30,6 +30,6 @@ This repository includes sample test cases, integration flows, and test strategi
 
 ## 👩🏻‍💻 About Me
 
-I’m a senior QA professional with 9+ years of experience in manual testing across enterprise platforms. During the Canfor SAP implementation, I led testing for over 250 scenarios covering employee lifecycle, time tracking, and payroll processing for 5,000+ employees.
+I’m a senior QA professional with 9+ years of experience in manual testing across enterprise platforms. During the Canfor SAP implementation, I led testing for over 250 scenarios covering employee lifecycle, time tracking, and payroll processing for 4,000+ employees.
 
 [LinkedIn](https://www.linkedin.com/in/rekha-joshi) | rekha.joshi2@gmail.com

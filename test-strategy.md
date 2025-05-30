@@ -28,8 +28,8 @@ This document outlines the test strategy I followed while leading testing activi
 
 | Tool        | Purpose                                                  |
 |-------------|----------------------------------------------------------|
-| **Excel**   | Test case management and execution tracking  and logging |
-| **Jira**    | Defect logging, triage, traceability                     |
+| **Excel**   | Test case management, execution tracking  and logging |
+| **Jira**    | Defect logging, triage, traceability and status report |
 
 ---
 
