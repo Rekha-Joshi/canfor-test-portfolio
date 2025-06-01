@@ -1,13 +1,14 @@
 ## Glossary
 
-*Info Type: Infotypes are the screens or tables where employee data is stored (e.g., address, pay)
-*Wage Type: A specific component of pay (e.g., basic salary, bonus, deduction) used in payroll.
-*Infotype 0008:	Basic Pay – stores salary, pay scale, and wage type data for employees.
-*Infotype 0009:	Bank Details – stores bank account info for direct deposit.
-*Infotype 0014: Recurring Payments/Deductions (like monthly deductions or allowances e.g loan)
-*Infotype 0015:	Additional Payments – used to enter one-time payments like bonuses.
-*| Concept | Example	| What It Means |
- | --------|------------|---------------|  
+* Info Type: Infotypes are the screens or tables where employee data is stored (e.g., address, pay)
+* Wage Type: A specific component of pay (e.g., basic salary, bonus, deduction) used in payroll.
+* Infotype 0008:	Basic Pay – stores salary, pay scale, and wage type data for employees.
+* Infotype 0009:	Bank Details – stores bank account info for direct deposit.
+* Infotype 0014: Recurring Payments/Deductions (like monthly deductions or allowances e.g loan)
+* Infotype 0015:	Additional Payments – used to enter one-time payments like bonuses.
+
+| Concept | Example	| What It Means |
+| --------|------------|---------------|  
 | Infotype	| 0008	| Basic Pay infotype — stores base salary info|
 | Infotype	| 0015	| Additional Payments infotype — stores one-time payments|
 | Wage Type	| 1000	| Basic Pay (a wage type stored in Infotype 0008)|
@@ -15,10 +16,10 @@
 | Wage Type	| 3010	| Loan Deduction (recurring deduction in Infotype 0014)|
 | Wage Type	| 9050	| Garnishment (deduction wage type in Infotype 0014 or 0015)|
 
-*Retroactive Payroll:	A payroll run that reprocesses past periods due to data changes (e.g., backdated pay raise).
-*Garnishment:	A court-ordered deduction from an employee's pay (e.g., child support).
-*Off-Cycle Payroll:	A separate payroll run outside the regular schedule (e.g., bonus, missed payment).
-*Payroll Area:	A group of employees processed together in a payroll run (e.g., monthly staff).
+* Retroactive Payroll:	A payroll run that reprocesses past periods due to data changes (e.g., backdated pay raise).
+* Garnishment:	A court-ordered deduction from an employee's pay (e.g., child support).
+* Off-Cycle Payroll:	A separate payroll run outside the regular schedule (e.g., bonus, missed payment).
+* Payroll Area:	A group of employees processed together in a payroll run (e.g., monthly staff).
 
 
 ### Scenario 1: Add an Off-Cycle Payment for an Employee  
