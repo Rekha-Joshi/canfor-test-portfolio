@@ -1,3 +1,12 @@
+## Personal Reflection
+
+I loved working in this role. I gained so much and truly stepped out of my comfort zone — transitioning from being a hands-on technical tester to someone leading the entire testing effort. It was so much more than just test execution.
+
+I learned to think about the team, manage testing resources, navigate issues, handle tight timelines, and support frustrated business users during UAT — all while keeping the focus on quality and delivery. Seeing everything come together during the successful go-live was one of the most rewarding professional moments for me.
+
+Of course, we did miss some issues and caught them during or after go-live. But like we say, testing is never 100% done — and a truly bug-free implementation is almost impossible. Every skipped bug becomes a lesson. I’ve learned to accept mistakes, trace their root causes, and ensure the same gaps are not repeated in future cycles.
+
+
 # Learnings from SAP EC, Payroll, and Kronos Testing Project
 
 This document outlines the key technical and process-related learnings gained from leading QA for the implementation and testing of SAP Employee Central, SAP Payroll, and Kronos Time & Attendance systems.
